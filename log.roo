@@ -1,0 +1,180 @@
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 15:39:51
+addon create wrapper --topLevelPackage com.oracle.convert.osgi --groupId com.oracle --artifactId ojdbc7 --version 12.1.0.2 --vendorName Oracle --licenseUrl http://www.oracle.com
+perform command --mavenCommand bundle:bundle
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 15:43:41
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 15:43:58
+osgi install --url /Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi install --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi headers
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+osgi ps
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 15:48:35
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 15:48:44
+osgi ps
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 15:48:52
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 15:57:04
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 16:13:22
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 16:16:25
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+perform command --mavenCommand bundle:bundle
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 16:29:47
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 17:14:59
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+perform command --mavenCommand bundle:bundle
+osgi ps
+osgi install --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi ps
+osgi ps
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 17:46:18
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 17:46:30
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi headers
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 17:47:11
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 17:53:41
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi ps
+osgi header
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 18:05:39
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 18:37:38
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 18:42:13
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 18:42:34
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 18:43:41
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 18:44:00
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 18:46:48
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 19:10:44
+osgi ps
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+version 
+osgi ps
+osgi headers
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+osgi ps
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 20:15:32
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 20:40:22
+osgi ps
+osgi headers
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 20:40:35
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 20:40:40
+osgi ps
+osgi install --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi ps
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:10:23
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:11:05
+osgi ps
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:11:24
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:13:42
+osgi ps
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:14:53
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:15:13
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:15:29
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:21:50
+osgi ps
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:23:16
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:25:45
+osgi ps
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:26:17
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:26:54
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:29:53
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:30:20
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:30:42
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:31:07
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:31:30
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:31:45
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:31:48
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:32:02
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:32:46
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:33:09
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:34:29
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:34:42
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:36:02
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 21:40:53
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 21:43:42
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 22:13:35
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 22:15:41
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 22:15:56
+osgi start --url file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi ps
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 22:52:31

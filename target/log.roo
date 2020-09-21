@@ -1,0 +1,8 @@
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log opened at 2020-09-06 18:30:21
+osgi ps
+osgi start --url  file:///Users/deeptivijay/Documents/_MyLearning_/springroo/project/ojdbc7osgi/target/com.oracle.convert.osgi.ojdbc7-12.1.0.2.0001.jar
+osgi ps
+osgi headers
+osgi uninstall --bundleSymbolicName com.oracle.convert.osgi.ojdbc7
+exit
+// Spring Roo 1.3.2.RELEASE [rev 8387857] log closed at 2020-09-06 18:35:24
